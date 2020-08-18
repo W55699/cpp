@@ -1,0 +1,213 @@
+
+LinkID=80	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=161	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=616	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=678	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1031	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1032	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1033	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1038	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1039	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1040	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1067	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=沪杭高速公路
+
+
+LinkID=1206	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1207	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1208	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1209	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1210	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1211	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1212	Roadnameflag=1	Brunh=3	Dispclass=4	Roadname=苏州嘉兴高速公路
+
+
+LinkID=1933	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1935	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1936	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1937	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1938	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1939	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1941	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=1942	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=320国道
+
+
+LinkID=2130	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=104国道
+
+
+LinkID=2133	Roadnameflag=1	Brunh=3	Dispclass=6	Roadname=104国道
+
+
+LinkID=10628	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10631	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10633	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10640	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10714	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10715	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10810	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=10812	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11003	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11004	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11024	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11201	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11203	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11347	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11358	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11387	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11389	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11391	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11392	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11400	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11576	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11577	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11799	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11824	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11828	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=11852	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=12391	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13409	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13427	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13439	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13441	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13443	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13473	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13497	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13506	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13507	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13511	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13517	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13529	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13533	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13571	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13580	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
+
+LinkID=13921	Roadnameflag=0	Brunh=3	Dispclass=11	Roadname=
+
